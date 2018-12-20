@@ -15,7 +15,6 @@ skills: 2
 
 This is an example exercise. kjflksj lfjs ldfjsal flksj dflasj dfljs ldfkj lsjfkl asjfl sjlfj sl
 
-
 `@instructions`
 This is instruction part lskjdl sjfl jsldf jflks jdflksj dlfjls ajflasjfdljaskf
 
